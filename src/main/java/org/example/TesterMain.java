@@ -7,6 +7,4 @@ public class TesterMain {
 		System.out.println(tester.toString());
 		System.out.println(Tester.print());
 	}
-
 }
-gi
